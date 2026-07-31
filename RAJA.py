@@ -361,7 +361,7 @@ def old_One():
         ____banner____()
         print(f"       \x1b[38;5;196m(\x1b[1;37m®\x1b[38;5;196m)\x1b[1;37m>\x1b[38;5;196m×\x1b[1;37m<\x1b[38;5;46mTOTAL ID FROM CRACK {Y}: {G} {limit}{W}")
         print(f"       \x1b[38;5;196m(\x1b[1;37m®\x1b[38;5;196m)\x1b[1;37m>\x1b[38;5;196m×\x1b[1;37m<\x1b[38;5;46mUSE AIRPLANE MOD FOR GOOD RESULT{G}")
-        print('\x1b[10;92m┗━\x1b[10;97m=============================================')
+        print('\x1b[10;92m\x1b[10;97m=============================================')
         for mal in user:
             uid = star + mal
             if meth == 'A':
