@@ -95,7 +95,7 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://chat.whatsapp.com/JX01XMReYrYBsQSrS1IL8N')
+os.system('xdg-open https://chat.whatsapp.com/IPxE6k894anDDYjWK8rLp5?s=cl&p=a&mlu=4')
 # --- Anti-tampering and Security Checks ---
 # The script checks if the source code of the 'requests' library has been modified
 # or if packet sniffing tools are being used.
@@ -218,7 +218,7 @@ def ____banner____():
 |  \033[1;37m \033[1;31m[\033[1;32m✓\033[1;31m]\033[1;36m FACEBOK\033[1;33m        ☞  \033[1;32mRaja Cloner \033[1;33m       |
 |  \033[1;37m \033[1;31m[\033[1;32m✓\033[1;31m]\033[1;36m GITHUB\033[1;33m         ☞  \033[1;32mRAJA-CYBER420   \033[1;33m   |
 |  \033[1;37m \033[1;31m[\033[1;32m✓\033[1;31m]\033[1;36m TOOLS NAME\033[1;33m     ☞  \033[1;32mold clone      \033[1;33m    |
-|  \033[1;37m \033[1;31m[\033[1;32m✓\033[1;31m]\033[1;36m TOOLS VIRSION\033[1;33m  ☞  \033[1;32m2.6.1          \033[1;33m    |
+|  \033[1;37m \033[1;31m[\033[1;32m✓\033[1;31m]\033[1;36m TOOLS VIRSION\033[1;33m  ☞  \033[1;32m2.6.2          \033[1;33m    |
 ××××××××××××××××××××××××××××××××××××××××××××××
 \033[0m""")
 
