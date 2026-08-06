@@ -24,7 +24,7 @@ pip install requests bs4 httpx
 ⚔️ 『 𝐓𝐎𝐎𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 』
 Tool ko run karne ke liye ye commands run karein:
 rm -rf Open
-git clone [https://github.com/RAJA-CYBER420/Open-.git](https://github.com/RAJA-CYBER420/Open-.git)
+git clone https://github.com/RAJA-CYBER420/Open-.git
 cd Open
 python RAJA.py
 🔗 『 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐔𝐒 』
