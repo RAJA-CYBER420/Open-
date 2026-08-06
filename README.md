@@ -28,8 +28,8 @@ git clone [https://github.com/RAJA-CYBER420/Open-.git](https://github.com/RAJA-C
 cd Open
 python RAJA.py
 🔗 『 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐔𝐒 』
-💚 WhatsApp Group: Join WhatsApp Group
-🔴 YouTube Channel: Subscribe on YouTube
+💚 WhatsApp Group: https://chat.whatsapp.com/IzmPp6hhLNLHUhc5PZWeR2?s=cl&p=a&mlu=4
+🔴 YouTube Channel: https://youtube.com/@rajacloner420?si=tolfUe2W-xB36GML
 ⚡ SUBSCRIBE • LIKE • SHARE ⚡
 <div align="center">
 🔥 『 𝐊𝐈𝐍𝐆 𝐎𝐅 𝐂𝐋𝐎𝐍𝐈𝐍𝐆 』 🔥
