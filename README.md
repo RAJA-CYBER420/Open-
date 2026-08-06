@@ -22,8 +22,9 @@ pkg install python -y
 pkg install git -y
 pip install requests bs4 httpx
 ⚔️ 『 𝐓𝐎𝐎𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 』
-rm -rf Old-Clone
-git clone https://github.com/RAJA-CYBER420/Open-.git
+Tool ko run karne ke liye ye commands run karein:
+rm -rf Open
+git clone [https://github.com/RAJA-CYBER420/Open-.git](https://github.com/RAJA-CYBER420/Open-.git)
 cd Open
 python RAJA.py
 🔗 『 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐔𝐒 』
@@ -31,3 +32,6 @@ python RAJA.py
 🔴 YouTube Channel: Subscribe on YouTube
 ⚡ SUBSCRIBE • LIKE • SHARE ⚡
 <div align="center">
+🔥 『 𝐊𝐈𝐍𝐆 𝐎𝐅 𝐂𝐋𝐎𝐍𝐈𝐍𝐆 』 🔥
+👑 🆁🅰🅹🅰 𝗧𝐎𝐎𝐋 👑
+</div>
