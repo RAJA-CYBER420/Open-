@@ -1,6 +1,6 @@
-# Encrypted by MrK4US4R
-# Whatsapp 01612278337 
-# Github- https://github.com/MrK4US4R
+# Encrypted by RAJA CLONER
+# Whatsapp RAJA CLONER 420
+# Github- https://github.com/RAJA-CYBER-420
 
 exec("".join(map(chr,[int("".join(str({'😀': 0, '😁': 3, '😂': 6, '😃': 1, '😄': 2, '😅': 4, '😉': 7, '😊': 8, '😛': 9, '🤣': 5}[i]) for i in x.split())) for x in
 "😃 😀 🤣  😃 😀 😛  😃 😃 😄  😃 😃 😃  😃 😃 😅  😃 😃 😂  😁 😄  😃 😃 😃  😃 😃 🤣  😃 😀  😃 😀 \
